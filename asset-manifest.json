@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chess-voice-ESCOM/static/css/main.426e124c.css",
+    "main.js": "/Chess-voice-ESCOM/static/js/main.65c4d342.js",
+    "static/js/488.3ff7eae9.chunk.js": "/Chess-voice-ESCOM/static/js/488.3ff7eae9.chunk.js",
+    "index.html": "/Chess-voice-ESCOM/index.html",
+    "main.426e124c.css.map": "/Chess-voice-ESCOM/static/css/main.426e124c.css.map",
+    "main.65c4d342.js.map": "/Chess-voice-ESCOM/static/js/main.65c4d342.js.map",
+    "488.3ff7eae9.chunk.js.map": "/Chess-voice-ESCOM/static/js/488.3ff7eae9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426e124c.css",
+    "static/js/main.65c4d342.js"
+  ]
+}
